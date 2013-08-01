@@ -1,4 +1,4 @@
-﻿**SentimentAnalysis for social networks.
+﻿SentimentAnalysis for social networks.
 ============
 
 This is a Python implementation of the Naive Bayes classifier for doing sentiment analysis on soccial networks.
@@ -7,7 +7,7 @@ The classifier has been optimized with simple genetic algorithms. In order to tr
 
 At this moment, the Python implementation is only connected to twitter.
 
-Python necessities:
+External Python libraries:
 Tweepy
 Redis
 NLTK
